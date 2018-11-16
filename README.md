@@ -1,4 +1,5 @@
 # hello-world
-Repository de prueba para entrenamiento
+Repository for training with GitHub
 
-Desarrollador apasionado por la programación y la tecnologia.
+Encouraged developer apassionated with applications and videogames.
+
